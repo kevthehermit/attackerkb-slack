@@ -1,0 +1,3 @@
+ATTACKERKB_API = ""
+SLACK_TOKENS = ['']
+PRIVATE = True
